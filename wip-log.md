@@ -2,6 +2,7 @@
 title: WIP Log
 layout: default
 nav_order: 3
+has_toc: false
 ---
 
 # Work-in-Progress Log
