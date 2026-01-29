@@ -10,13 +10,15 @@ tags: [computer-vision, sonar, docker, holoocean, simulation]
 status: implementing
 ---
 
-# WIP — Sonar Computer Vision — Arturo — 2026-01-29
+# WIP - Sonar Computer Vision - Arturo - 2026-01-29
 
 ## 1) Snapshot (pre-fill)
 **Goal (1–2 sentences):**
+
 Develop computer vision algorithms for underwater sonar imagery using the Holoocean simulator to enable autonomous navigation and object detection in simulated marine environments.
 
 **One-line summary of this update:**
+
 Set up Docker environment for Holoocean and successfully rendered first sonar scans with custom camera configurations.
 
 **Links (required)**

@@ -16,10 +16,10 @@ YYYY-MM-DD__<project_slug>__<presenter>.md
 
 ## Creating a New WIP Entry
 
-1. Copy the `TEMPLATE.md` file
+1. Copy the `templates/TEMPLATE.md` file
 2. Rename it following the naming convention above
 3. Fill in the frontmatter:
-   - `title`: "WIP: <project_slug> — <presenter> (<YYYY-MM-DD>)"
+   - `title`: "WIP: <project_slug> - <presenter> (<YYYY-MM-DD>)"
    - `date`: YYYY-MM-DD
    - `project`: project slug (e.g., tactile-grasping)
    - `presenter`: Full Name
