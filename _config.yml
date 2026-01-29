@@ -6,6 +6,9 @@ permalink: pretty
 url: https://cu-intelligentsystems.github.io
 baseurl: /cub-cs-ris-lab
 
+kramdown:
+  toc_levels: 2..2
+
 aux_links:
   Template Repository: https://github.com/CU-IntelligentSystems/cub-cs-ris-lab
 

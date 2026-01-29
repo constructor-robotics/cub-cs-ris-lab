@@ -20,6 +20,9 @@ Each project page links to relevant code, datasets, experiment artifacts, and me
 
 By standardizing how we record progress and challenges, the site helps the lab collaborate more effectively and share transferable research practices.
 
+## Team Lead(s) / Principal Investigator(s) (PI)
+Prof. Francesco Maurelli
+
 ## Quick Links
 
 - [Projects]({{ '/projects/' | relative_url }}) - Summary of all active and past projects
