@@ -7,14 +7,8 @@ nav_order: 1
 # Research Lab - Public Log
 {: .no_toc }
 
-This website serves as the public research log and knowledge base for our Research Lab.
+This website serves as the public research log and knowledge base for the Research Lab.
 {: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 

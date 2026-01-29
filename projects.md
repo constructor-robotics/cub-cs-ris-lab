@@ -35,17 +35,6 @@ Developing computer vision algorithms for underwater sonar imagery using Holooce
 **Primary Researcher:** Hamza Hussain
 **Status:**
 
-<!-- Additional projects:
-### [Tactile Grasping](/projects/tactile-grasping/)
-Brief description of the project...
-
-### [Legged Locomotion](/projects/legged-locomotion/)
-Brief description of the project...
-
-### [SLAM Mapping](/projects/slam-mapping/)
-Brief description of the project...
--->
-
 ## Past Projects
 
 *Coming soon...*
