@@ -8,6 +8,7 @@ project: acoustic-modem-energy-management
 presenter: Hamza Hussain haalloooooooooo
 tags: []
 status:
+has_toc: false
 ---
 
 # WIP - Acoustic Model Energy Management - Hamza Hussain - 2026-01-29

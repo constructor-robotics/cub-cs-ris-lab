@@ -8,6 +8,7 @@ project: sonar-cv
 presenter: Arturo
 tags: [computer-vision, sonar, docker, holoocean, simulation]
 status: implementing
+has_toc: false
 ---
 
 # WIP - Sonar Computer Vision - Arturo - 2026-01-29
