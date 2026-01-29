@@ -21,11 +21,12 @@ The WIP Log aggregates all work-in-progress updates from researchers across proj
 
 {% if wip_posts.size > 0 %}
 {% for post in wip_posts %}
-#### [{{ post.title }}]({{ post.url | relative_url }})
-**Date:** {{ post.date | date: "%Y-%m-%d" }}
-**Project:** [{{ post.project }}]({{ '/projects/' | append: post.project | append: '/' | relative_url }})
-**Presenter:** {{ post.presenter }}
-**Status:** {{ post.status }}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+#### **Date:** {{ post.date | date: "%Y-%m-%d" }}
+#### **Project:** [{{ post.project }}]({{ '/projects/' | append: post.project | append: '/' | relative_url }})
+#### **Presenter:** {{ post.presenter }}
+#### **Status:** {{ post.status }}
 
 {% endfor %}
 {% else %}
