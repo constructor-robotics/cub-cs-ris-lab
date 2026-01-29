@@ -7,14 +7,8 @@ nav_order: 3
 # Work-in-Progress Log
 {: .no_toc }
 
-This page shows the latest WIP entries across all projects, newest first.
+This page shows the latest Work-In-Progress (WIP) entries across all projects, newest first.
 {: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
@@ -28,7 +22,7 @@ The WIP Log aggregates all work-in-progress updates from researchers across proj
 {% for post in wip_posts %}
 ## [{{ post.title }}]({{ post.url }})
 **Date:** {{ post.date | date: "%Y-%m-%d" }}
-**Project:** [{{ post.project }}]({{ '/projects/' | append: post.project | append: '/' | relative_url }})
+**Project:** [{{ post.project }}]({{ '/projects/wip' | append: post.project | append: '/' | relative_url }})
 **Presenter:** {{ post.presenter }}
 **Status:** {{ post.status }}
 
