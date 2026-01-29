@@ -3,6 +3,7 @@ title: Sonar Computer Vision
 layout: default
 parent: Projects
 nav_order: 1
+primary_researcher: Arturo Gomez Chavez
 ---
 
 # Sonar Computer Vision

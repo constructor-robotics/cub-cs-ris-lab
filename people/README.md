@@ -13,16 +13,17 @@ This folder contains individual markdown files for each lab member.
 
 | Field | Required | Description | Options |
 |-------|----------|-------------|---------|
-| `name` | Yes | First name | |
+| `first_name` | Yes | First name | |
 | `last_name` | Yes | Last name | |
 | `group` | Yes | Lab role category | `faculty`, `phd`, `masters`, `undergrad`, `external` |
 | `honorific_title` | No | Title prefix | e.g., `Dr.`, `Prof.` |
 | `last_degree` | No | Highest degree | e.g., `PhD`, `MSc`, `BSc` |
 | `public_url` | No | Personal website | Full URL |
-| `status` | No | Activity status | `Active`, `Inactive` |
-| `offboard` | No | Left the group | `Yes`, `No` |
+| `status` | No | Activity status | `active`, `inactive` |
+| `offboard` | No | Left the group | `yes`, `no` |
 | `research_focus` | No | Brief research description | |
-| `projects` | No | Associated project slugs | e.g., `[sonar-cv, slam-mapping]` |
+
+**Note:** Projects are linked automatically based on the `primary_researcher` field in project files.
 
 ## Group Values
 

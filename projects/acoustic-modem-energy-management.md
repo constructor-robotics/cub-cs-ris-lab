@@ -3,6 +3,7 @@ title: Acoustic Modem Energy Management
 layout: default
 parent: Projects
 nav_order: 2
+primary_researcher: Hamza Hussain
 ---
 
 # Acoustic Model Energy Management
@@ -24,7 +25,7 @@ nav_order: 2
 
 **Status:**
 **Primary Researcher:** Hamza Hussain
-**Start Date:** January 2026
+**Start Date:** December 2025
 
 ## Goals
 

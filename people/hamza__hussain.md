@@ -4,7 +4,7 @@ layout: default
 parent: People
 nav_order: 2
 
-name: Hamza
+first_name: Hamza
 last_name: Hussain
 group: masters
 
@@ -14,10 +14,9 @@ public_url:
 status: active
 offboard: no
 research_focus:
-projects: [acoustic-modem-energy-management]
 ---
 
-# {{ page.name }} {{ page.last_name }}
+# {{ page.first_name }} {{ page.last_name }}
 {: .no_toc }
 
 {{ page.research_focus }}
@@ -31,13 +30,18 @@ projects: [acoustic-modem-energy-management]
 
 ## Current Projects
 
-{% for project_slug in page.projects %}
-- [{{ project_slug }}]({{ '/projects/' | append: project_slug | append: '/' | relative_url }})
+{% assign all_projects = site.pages | where_exp: "p", "p.path contains 'projects/'" | where_exp: "p", "p.primary_researcher == page.first_name" %}
+{% if all_projects.size > 0 %}
+{% for project in all_projects %}
+- [{{ project.title }}]({{ project.url | relative_url }})
 {% endfor %}
+{% else %}
+*No projects yet.*
+{% endif %}
 
 ## Related WIP Entries
 
-{% assign person_wips = site.pages | where_exp: "p", "p.path contains 'wip/'" | where_exp: "p", "p.presenter == page.name or p.presenter contains page.name" | sort: "date" | reverse %}
+{% assign person_wips = site.pages | where_exp: "p", "p.path contains 'wip/'" | where_exp: "p", "p.presenter contains page.first_name and p.presenter contains page.last_name" | sort: "date" | reverse %}
 {% if person_wips.size > 0 %}
 {% for wip in person_wips %}
 - [{{ wip.title }}]({{ wip.url | relative_url }}) - {{ wip.date | date: "%Y-%m-%d" }}
