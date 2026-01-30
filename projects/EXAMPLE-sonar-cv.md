@@ -1,5 +1,5 @@
 ---
-title: Sonar Computer Vision
+title: EXAMPLE Sonar Computer Vision
 layout: default
 parent: Projects
 nav_order: 1
