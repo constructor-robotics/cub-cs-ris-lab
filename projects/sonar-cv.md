@@ -3,12 +3,13 @@ title: Sonar Computer Vision
 layout: default
 parent: Projects
 nav_order: 1
+project: sonar-cv
 primary_researcher: Arturo Gomez-Chavez
+status: implementing
 ---
 
 # Sonar Computer Vision
 {: .no_toc }
-
 Developing computer vision algorithms for underwater sonar imagery.
 {: .fs-6 .fw-300 }
 
@@ -28,7 +29,7 @@ This project focuses on developing computer vision algorithms for processing and
 
 **Status:** Implementing
 **Primary Researcher:** Arturo Gomez-Chavez
-**Start Date:** January 2026
+**Start Date:** January 2150
 
 ## Goals
 
@@ -50,7 +51,7 @@ This project focuses on developing computer vision algorithms for processing and
 
 ## Related WIP Entries
 
-{% assign project_wips = site.pages | where_exp: "page", "page.project == 'sonar-cv'" | sort: "date" | reverse %}
+{% assign project_wips = site.pages | where_exp: "item", "item.project == page.project" | sort: "date" | reverse %}
 {% if project_wips.size > 0 %}
 {% for wip in project_wips %}
 - [{{ wip.title }}]({{ wip.url | relative_url }}) - {{ wip.date | date: "%Y-%m-%d" }}
