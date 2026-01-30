@@ -32,7 +32,6 @@ Lab members are listed by role, with links to their research contributions.
 {% if faculty.size > 0 %}
 {% for person in faculty %}
 ### [{{ person.honorific_title }} {{ person.first_name }} {{ person.last_name }}]({{ person.url | relative_url }})
-
 {% if person.research_focus %}
 #### **Research Focus:** {{ person.research_focus }}
 {% endif %}
