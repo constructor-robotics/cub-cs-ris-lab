@@ -3,6 +3,8 @@ description: Wiki page for internal documentation
 theme: just-the-docs
 permalink: pretty
 
+logo: "/assets/icons/cub-ris-logo-1.jpeg"
+favicon_ico: "/assets/icons/cub-ris-logo-1.jpeg"
 url: https://cu-intelligentsystems.github.io
 baseurl: /cub-cs-ris-lab
 
