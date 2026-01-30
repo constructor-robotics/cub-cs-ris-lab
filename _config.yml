@@ -3,6 +3,13 @@ description: Wiki page for internal documentation
 theme: just-the-docs
 permalink: pretty
 
+# Lab information
+lab_name: CUB RIS Lab
+lab_full_name: Constructor University Bremen - Robotics and Intelligent Systems Lab
+team_leads:
+  - name: Prof. Dr. Francesco Maurelli
+    url: https://constructor.university/faculty-member/prof-dr-francesco-maurelli
+
 # logo: "/assets/icons/cub-ris-logo-1.jpeg"
 # favicon_ico: "/assets/icons/cub-ris-logo-1.jpeg"
 url: https://cu-intelligentsystems.github.io

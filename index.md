@@ -6,10 +6,10 @@ nav_order: 1
 
 <img src="{{ '/assets/icons/cub-ris-logo-1.jpeg' | relative_url }}" alt="Lab Logo" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px;">
 
-# Research Lab - Public Log
+# {{ site.lab_name }} - Public Log
 {: .no_toc }
 
-This website serves as the public research log and knowledge base for the Research Lab.
+This website serves as the public research log and knowledge base for the {{ site.lab_name }}.
 {: .fs-6 .fw-300 }
 
 <div style="clear: both;"></div>
@@ -25,7 +25,9 @@ Each project page links to relevant code, datasets, experiment artifacts, and me
 By standardizing how we record progress and challenges, the site helps the lab collaborate more effectively and share transferable research practices.
 
 ## Team Lead(s) / Principal Investigator(s) (PI)
-**Prof. Dr. Francesco Maurelli**
+{% for lead in site.team_leads %}
+**[{{ lead.name }}]({{ lead.url }})**{% unless forloop.last %}, {% endunless %}
+{% endfor %}
 
 ## Quick Links
 
