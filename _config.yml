@@ -12,14 +12,14 @@ team_leads:
 
 # logo: "/assets/icons/cub-ris-logo-1.jpeg"
 # favicon_ico: "/assets/icons/cub-ris-logo-1.jpeg"
-url: https://cu-intelligentsystems.github.io
+url: https://constructor-robotics.github.io
 baseurl: /cub-cs-ris-lab
 
 kramdown:
   toc_levels: 2..2
 
 aux_links:
-  Template Repository: https://github.com/CU-IntelligentSystems/cub-cs-ris-lab
+  Template Repository: https://github.com/constructor-robotics/cub-cs-ris-lab
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light
