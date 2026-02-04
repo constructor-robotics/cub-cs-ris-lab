@@ -26,11 +26,11 @@ research_focus:
 
 ## About
 
-- **Background:** <Previous education, institution, or relevant experience>
-- **Research Interests:** <Specific topics or problems you're interested in>
-- **Current Work:** <What you're currently working on in the lab>
-- **Skills:** <Programming languages, tools, or methodologies you use>
-- **Hobbies:** <Interests outside of work>
+- **Background:** MSc Computer Science (Constructor University Bremen, DE); BEng Mechatronics (NUST, PK); marine robotics research experience (UCP + Constructor).
+- **Research Interests:** Underwater robotics, cooperative USV–AUV navigation, state estimation/sensor fusion, autonomy under communication/energy constraints, robust underwater perception.
+- **Current Work:** Energy-aware acoustic modem/beacon management for AUV localization, Thesis formulation...
+- **Skills:** Basic Robotics Stacks
+- **Hobbies:** Swimming
 
 ## Current Projects
 

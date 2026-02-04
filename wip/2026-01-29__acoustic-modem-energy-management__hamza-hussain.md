@@ -29,7 +29,7 @@ notetaker: Arturo Gomez-Chavez
 
 **Links (required)**
 - Project page: [acoustic-modem-energy-management]({{ '/projects/acoustic-modem-energy-management/' | relative_url }}) 
-- Code repo , branch:  <mark>Missing</mark>
+- Code repo , branch:  [GitHub Link](https://github.com/hamzahussain5500/holodev_acoustic_manager)
 - Data location (version if applicable): <mark>Missing</mark>
 - Slides, notes, figures: [Teams Link](https://constructoruniversity.sharepoint.com/:f:/r/sites/HumanoidRobots/Shared%20Documents/General/Projects/acoustic-modem-energy-management?csf=1&web=1&e=YW74og)
 
