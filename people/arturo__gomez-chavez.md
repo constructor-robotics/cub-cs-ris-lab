@@ -16,11 +16,15 @@ offboard: no
 research_focus: computer vision, deep learning, underwater robotics, sonar, stereo, simulation
 ---
 
+<img src="{{ '/assets/people/arturo-gomez-chavez.png' | relative_url }}" alt="{{ page.first_name }} {{ page.last_name }}" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px;">
+
 # {{ page.first_name }} {{ page.last_name }}
 {: .no_toc }
 
 {{ page.research_focus }}
 {: .fs-6 .fw-300 }
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -29,11 +33,8 @@ research_focus: computer vision, deep learning, underwater robotics, sonar, ster
 - **Background:** Finished PhD in Robotics in December 2025. Previously worked in Copmuter Vision for Waste Management as team-lead and co-founder.
 - **Research Interests:** Multimodal models (with different sensor modalities not only text+vision). Production AI-Agents
 - **Current Work:** Sonar reconstruction, underwater simulation
-- **Skills:** Good at many, expert of nothing =P Docker, ROS, Backend, etc. Python, C++. 
+- **Skills:** Good at many, expert of nothing =P Docker, ROS, Backend, etc. Python, C++.
 - **Hobbies:** Semi-retired and old martial artist, fan of dogs and anime when it was not mainstream
-
-### {{ page.first_name }} in an image
-![Arturo]({{ '/assets/people/arturo-gomez-chavez.png' | relative_url }})
 
 <!---
 NOTE: DO NOT MODIFY ANYTHING BELOW
