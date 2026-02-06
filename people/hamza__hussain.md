@@ -16,11 +16,16 @@ offboard: no
 research_focus:
 ---
 
+<!-- Upload your profile picture to /assets/people/hamza-hussain.png (or .jpg) and update the image path below -->
+<img src="{{ '/assets/people/default.jpg' | relative_url }}" alt="{{ page.first_name }} {{ page.last_name }}" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px;">
+
 # {{ page.first_name }} {{ page.last_name }}
 {: .no_toc }
 
 {{ page.research_focus }}
 {: .fs-6 .fw-300 }
+
+<div style="clear: both;"></div>
 
 ---
 

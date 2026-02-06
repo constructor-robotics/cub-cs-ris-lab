@@ -21,14 +21,19 @@ research_focus:       # Brief description of research interests
 published: False
 ---
 <!---
-Please don't inlicde the published Tag above when creating your file
+Please don't include the 'published: False' Tag above when creating your file.
+Upload your profile picture to /assets/people/firstname-lastname.png (or .jpg) and update the image path below.
 -->
+
+<img src="{{ '/assets/people/default.jpg' | relative_url }}" alt="{{ page.first_name }} {{ page.last_name }}" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px;">
 
 # {{ page.first_name }} {{ page.last_name }}
 {: .no_toc }
 
 {{ page.research_focus }}
 {: .fs-6 .fw-300 }
+
+<div style="clear: both;"></div>
 
 ---
 

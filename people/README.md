@@ -10,8 +10,8 @@ firstname__lastname.md
 ```
 
 **Examples:**
-- `arturo__gomez-chavez.md`
-- `hamza__hussain.md`
+- `juan__perez-chavez.md`
+- `bernard__fromm.md`
 
 Use lowercase with double underscore between first and last name. Use hyphens for compound last names.
 
@@ -22,6 +22,15 @@ Use lowercase with double underscore between first and last name. Use hyphens fo
 3. **Remove** the `published: False` line from the frontmatter
 4. Fill in the frontmatter fields (see Frontmatter Reference below)
 5. Fill in the content sections (see Content Sections below)
+6. **Upload a profile picture** to `/assets/people/` with the naming format `firstname-lastname.png` (or `.jpg`), then update the image path in your file
+
+## Profile Picture
+
+Each person should have a profile picture displayed next to their name and research focus.
+
+- Upload your picture to: `/assets/people/firstname-lastname.png` (or `.jpg`)
+- Update the `<img src=...>` tag in your markdown file to point to your picture
+- If no picture is available, the template uses `/assets/people/default.jpg` as a placeholder
 
 ## Frontmatter Reference
 
