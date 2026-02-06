@@ -32,6 +32,10 @@ research_focus:
 - **Skills:** Basic Robotics Stacks
 - **Hobbies:** Swimming
 
+<!---
+NOTE: DO NOT MODIFY ANYTHING BELOW
+-->
+
 ## Current Projects
 
 {% assign all_projects = site.pages | where_exp: "p", "p.path contains 'projects/'" | where_exp: "p", "p.primary_researcher contains page.first_name and p.primary_researcher contains page.last_name" %}

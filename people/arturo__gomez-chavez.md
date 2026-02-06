@@ -32,6 +32,10 @@ research_focus: computer vision, deep learning, underwater robotics, sonar, ster
 - **Skills:** Good at many, expert of nothing =P Docker, ROS, Backend, etc. Python, C++. 
 - **Hobbies:** Semi-retired and old martial artist, fan of dogs and anime when it was not mainstream
 
+<!---
+NOTE: DO NOT MODIFY ANYTHING BELOW
+-->
+
 ## Current Projects
 
 {% assign all_projects = site.pages | where_exp: "p", "p.path contains 'projects/'" | where_exp: "p", "p.primary_researcher contains page.first_name and p.primary_researcher contains page.last_name" %}

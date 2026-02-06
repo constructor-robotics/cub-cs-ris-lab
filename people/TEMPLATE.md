@@ -40,6 +40,10 @@ Please don't inlicde the published Tag above when creating your file
 - **Skills:** <Programming languages, tools, or methodologies you use>
 - **Hobbies:** <Interests outside of work>
 
+<!---
+NOTE: DO NOT MODIFY ANYTHING BELOW
+-->
+
 ## Current Projects
 
 {% assign all_projects = site.pages | where_exp: "p", "p.path contains 'projects/'" | where_exp: "p", "p.primary_researcher contains page.first_name and p.primary_researcher contains page.last_name" %}

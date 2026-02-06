@@ -51,6 +51,10 @@ Please don't inlicde the published Tag above when creating your file
 
 [<repo-name>](<repo-url>)
 
+<!---
+NOTE: DO NOT MODIFY ANYTHING BELOW
+-->
+
 ## Related WIP Entries
 
 {% assign project_wips = site.pages | where_exp: "item", "item.path contains 'wip/'" | where_exp: "item", "item.project == page.project" | sort: "date" | reverse %}

@@ -72,6 +72,11 @@ The goal is to explore the energy conservation in acoustic localisation schemes 
 ## Repository
 
 [GitHub Link](https://github.com/hamzahussain5500/holodev_acoustic_manager)
+
+<!---
+NOTE: DO NOT MODIFY ANYTHING BELOW
+-->
+
 ## Related WIP Entries
 
 {% assign project_wips = site.pages | where_exp: "item", "item.path contains 'wip/'" | where_exp: "item", "item.project == page.project" | sort: "date" | reverse %}

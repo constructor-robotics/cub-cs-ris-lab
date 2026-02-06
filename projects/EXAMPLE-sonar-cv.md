@@ -49,6 +49,11 @@ This project focuses on developing computer vision algorithms for processing and
 
 [github.com/lab/sonar-cv](https://github.com/lab/sonar-cv) (example link)
 
+
+<!---
+NOTE: DO NOT MODIFY ANYTHING BELOW
+-->
+
 ## Related WIP Entries
 
 {% assign project_wips = site.pages | where_exp: "item", "item.path contains 'wip/'" | where_exp: "item", "item.project == page.project" | sort: "date" | reverse %}
