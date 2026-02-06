@@ -32,6 +32,9 @@ research_focus: computer vision, deep learning, underwater robotics, sonar, ster
 - **Skills:** Good at many, expert of nothing =P Docker, ROS, Backend, etc. Python, C++. 
 - **Hobbies:** Semi-retired and old martial artist, fan of dogs and anime when it was not mainstream
 
+### {page.first_name} in an image
+![Arturo](/assets/people/arturo-gomez-chavez.png)
+
 <!---
 NOTE: DO NOT MODIFY ANYTHING BELOW
 -->
