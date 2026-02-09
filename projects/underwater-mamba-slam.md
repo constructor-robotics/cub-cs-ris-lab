@@ -10,7 +10,7 @@ status: experiments
 
 # <Project Title>
 {: .no_toc }
-<One-line project description>
+A robust, real-time underwater SLAM system that leverages Mamba-based temporal feature extraction and tight fusion of monocular vision with navigational sensors to handle turbidity, low light, and texture-poor scenes.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -29,21 +29,21 @@ status: experiments
 
 ## Current Status
 
-**Status:** <exploring | implementing | experiments | writing | wrapping-up | maintenance | concluded>
-**Primary Researcher:** <Full Name>
-**Start Date:** <Month Year>
+**Status:** experiments
+**Primary Researcher:** Waqar Mughal
+**Start Date:** 
 
 ## Goals
 
-- <Goal 1>
-- <Goal 2>
-- <Goal 3>
+- Goal 1
+- Goal 2
+- Goal 3
 
 ## Technical Approach
 
-- **<Category 1>:** <Details>
-- **<Category 2>:** <Details>
-- **<Category 3>:** <Details>
+- **Category 1:** Details
+- **Category 2:** Details
+- **Category 3:** Details
 
 ## Repository
 

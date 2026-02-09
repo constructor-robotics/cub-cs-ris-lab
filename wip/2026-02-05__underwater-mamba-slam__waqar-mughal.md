@@ -27,7 +27,7 @@ notetaker: Arturo Gomez-Chavez
 - Discuss the reviews received from ICRA 2026, how to address them and discuss how to follow up the project through puiblications, i.e., conferences/journals  
 
 **Links (required)**
-- Project page: [underwater-mamba-slam]({{ '/projects/acoustic-modem-energy-management/' | relative_url }}) 
+- Project page: [underwater-mamba-slam]({{ '/projects/underwater-mamba-slam/' | relative_url }}) 
 - Code repo , branch:  <mark>Missing</mark>
 - Data location (version if applicable): <mark>Missing</mark>
 - Slides, notes, figures: <mark>Missing</mark>
