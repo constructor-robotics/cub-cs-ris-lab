@@ -2,7 +2,7 @@
 title: "WIP: EXAMPLE-sonar-cv - Arturo Gomez-Chavez [2000-01-01]"
 layout: default
 parent: WIP Log
-nav_order: 1
+nav_order: 2
 date: 2000-01-01
 project: EXAMPLE-sonar-cv
 presenter: Arturo Gomez-Chavez

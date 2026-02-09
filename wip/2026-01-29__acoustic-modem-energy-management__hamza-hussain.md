@@ -2,7 +2,7 @@
 title: "WIP: acoustic-model-energy-management - Hamza Hussain [2026-01-29]"
 layout: default
 parent: WIP Log
-nav_order: 2
+nav_order: 1
 date: 2026-01-29
 project: acoustic-modem-energy-management
 presenter: Hamza Hussain

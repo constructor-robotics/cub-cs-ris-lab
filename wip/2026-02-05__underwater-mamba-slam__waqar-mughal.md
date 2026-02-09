@@ -2,7 +2,7 @@
 title: "WIP: underwater-mamba-slam - Waqar Mughal [2026-02-05]"
 layout: default
 parent: WIP Log
-nav_order: 2
+nav_order: 1
 date: 2026-02-05
 project: underwater-mamba-slam
 presenter: Waqar Mughal
