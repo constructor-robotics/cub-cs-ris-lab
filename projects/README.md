@@ -59,4 +59,4 @@ Use lowercase with hyphens (kebab-case) for project slugs.
 
 ## Related WIP Entries
 
-The template includes a Liquid loop that automatically lists all WIP entries matching the project slug. Ensure the `project` field in your WIP entries matches the `project` field in the project page.
+The template includes a Liquid loop that automatically lists all WIP entries matching the project slug. Ensure the `project` field in your WIP entries matches the `project` field in the project page
