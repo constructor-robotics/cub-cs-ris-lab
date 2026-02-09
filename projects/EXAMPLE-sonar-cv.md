@@ -28,8 +28,11 @@ This project focuses on developing computer vision algorithms for processing and
 ## Current Status
 
 **Status:** Implementing
+
 **Primary Researcher:** Arturo Gomez-Chavez
+
 **Start Date:** January 2330
+
 
 ## Goals
 

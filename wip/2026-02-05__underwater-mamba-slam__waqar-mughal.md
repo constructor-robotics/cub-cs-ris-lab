@@ -1,5 +1,5 @@
 ---
-title: "WIP: underwater-mamba-slam - Hamza Hussain [2026-02-05]"
+title: "WIP: underwater-mamba-slam - Waqar Mughal [2026-02-05]"
 layout: default
 parent: WIP Log
 nav_order: 2

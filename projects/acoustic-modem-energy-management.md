@@ -27,8 +27,10 @@ Reduce acoustic communication/ranging energy consumption during AUV localization
 
 ## Current Status
 
-**Status:** experiments 
+**Status:** experiments
+
 **Primary Researcher:** Hamza Hussain
+
 **Start Date:** December 2025
 
 ## Goals

@@ -30,8 +30,11 @@ A robust, real-time underwater SLAM system that leverages Mamba-based temporal f
 ## Current Status
 
 **Status:** experiments
+
 **Primary Researcher:** Waqar Mughal
+
 **Start Date:** 
+
 
 ## Goals
 
