@@ -1,9 +1,9 @@
 ---
-title: "WIP: EXAMPLE-sonar-cv - Arturo Gomez-Chavez [2330-12-12]"
+title: "WIP: EXAMPLE-sonar-cv - Arturo Gomez-Chavez [2000-01-01]"
 layout: default
 parent: WIP Log
 nav_order: 1
-date: 2330-12-12
+date: 2000-01-01
 project: EXAMPLE-sonar-cv
 presenter: Arturo Gomez-Chavez
 tags: [computer-vision, sonar, docker, holoocean, simulation]
@@ -11,7 +11,7 @@ status: concluded
 notetaker: Hamza Hussain
 ---
 
-# WIP - EXAMPLE Sonar Computer Vision - Arturo Gomez-Chavez - 2330-12-12
+# WIP - EXAMPLE Sonar Computer Vision - Arturo Gomez-Chavez - 2000-01-01
 
 ## 1) Snapshot (fill before meeting)
 **Project goal (1-3 sentences)**
