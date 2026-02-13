@@ -6,9 +6,9 @@ nav_order: 1
 
 first_name: Muhammad Waqar
 last_name: Mughal
-group: student
+group: phd
 
-honorific_title: PhD
+honorific_title: 
 last_degree: MSCS
 public_url:
 status: active

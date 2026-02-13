@@ -4,7 +4,7 @@ layout: default
 parent: Projects
 nav_order: 1
 project: underwater-mamba-slam
-primary_researcher: Waqar Mughal
+primary_researcher: Muhammad Waqar Mughal
 status: experiments
 ---
 
@@ -31,7 +31,7 @@ A robust, real-time underwater SLAM system that leverages Mamba-based temporal f
 
 **Status:** experiments
 
-**Primary Researcher:** Waqar Mughal
+**Primary Researcher:** Muhammad Waqar Mughal
 
 **Start Date:** 
 

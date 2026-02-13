@@ -2,7 +2,7 @@
 title: "Hamza Hussain"
 layout: default
 parent: People
-nav_order: 2
+nav_order: 1
 
 first_name: Hamza
 last_name: Hussain

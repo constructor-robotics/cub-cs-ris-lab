@@ -5,7 +5,7 @@ parent: WIP Log
 nav_order: 1
 date: 2026-02-05
 project: underwater-mamba-slam
-presenter: Waqar Mughal
+presenter: WaMuhammad Waqar Mughal
 tags: [underwater robotics, mapping, localization, simulation, visual odometry]
 status: experiments
 notetaker: Arturo Gomez-Chavez
