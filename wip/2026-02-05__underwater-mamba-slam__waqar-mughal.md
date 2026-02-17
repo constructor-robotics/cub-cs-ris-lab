@@ -44,9 +44,9 @@ notetaker: Arturo Gomez-Chavez
 - Received ICRA reviews (rejection) and decided in which aspects to focus
 
 **Key results (numbers + what they mean)**
-- Metric(s):  
-- Baseline comparison:  
-- What improved / regressed / was constant (your hypothesis)?:  
+- Metric(s): Need to decide the names. But for sure some basic feature extracter per frame and matching one  
+- Baseline comparison:  ORB-SLAM3 and some other deep learning based systems
+- What improved / regressed / was constant (your hypothesis)?:  I need to add feature comparision based matrixes as well as error matrix for loop closure.
 
 **Artifacts produced (links if available)**
 - Issues:  
@@ -57,14 +57,14 @@ notetaker: Arturo Gomez-Chavez
 
 ## 3) Current approach: let's make it reproducible (fill before meeting)
 **Method summary**
-- Problem formulation:  
-- Approach (algorithm/model/control):  
+- Problem formulation:  I need to prepare 3 type of comparisions. 1) is feature based 2) feature tracking based 3) how much error in loop closure correction. One more thing i need to update maps as well. 
+- Approach (algorithm/model/control):  base algo is vision Mamba 
 - Assumptions / constraints:  
 
 **Setup**
 - Robot / hardware:  
-- Sim / environment version: 
-- Other considerations: 
+- Sim / environment version: HoloOcean / Ocean
+- Other considerations: ICRA reviwe must entertained as well comparsion needed.
 
 ## 4) Feedback & next steps (fill after meeting, except 'Help Needed')
 
