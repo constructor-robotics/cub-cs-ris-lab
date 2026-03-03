@@ -1,19 +1,19 @@
 ---
-title: "Hamza Hussain"
+title: "Shixin Sun"
 layout: default
 parent: People
 nav_order: 1
 
-first_name: Hamza
-last_name: Hussain
-group: masters
+first_name: Shixin
+last_name: Sun
+group: phd
 
 honorific_title:
-last_degree: Bachelors
+last_degree: Masters
 public_url:
 status: active
 offboard: no
-research_focus:
+research_focus: Computer Vision
 ---
 
 <!-- Upload your profile picture to /assets/people/hamza-hussain.png (or .jpg) and update the image path below -->
