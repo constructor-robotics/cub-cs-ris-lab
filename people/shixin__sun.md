@@ -1,22 +1,29 @@
 ---
+# Person Template - Copy this file and rename to: firstname__lastname.md
 title: "Shixin Sun"
 layout: default
 parent: People
 nav_order: 1
 
+# Required fields
 first_name: Shixin
 last_name: Sun
-group: phd
+group: phd  # Options: faculty, phd, masters, undergrad, external
 
-honorific_title:
-last_degree: Masters
-public_url:
-status: active
-offboard: no
-research_focus: Computer Vision
+# Optional fields
+honorific_title:      # e.g., Dr., Prof.
+last_degree:          # e.g., PhD, MSc, BSc
+public_url:           # Personal website or profile URL
+status: active        # active / inactive
+offboard: no          # yes / no
+research_focus:       # Brief description of research interests
+
 ---
+<!---
+Please don't include the 'published: False' Tag above when creating your file.
+Upload your profile picture to /assets/people/firstname-lastname.png (or .jpg) and update the image path below.
+-->
 
-<!-- Upload your profile picture to /assets/people/hamza-hussain.png (or .jpg) and update the image path below -->
 <img src="{{ '/assets/people/default.jpg' | relative_url }}" alt="{{ page.first_name }} {{ page.last_name }}" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px;">
 
 # {{ page.first_name }} {{ page.last_name }}
@@ -31,11 +38,11 @@ research_focus: Computer Vision
 
 ## About
 
-- **Background:** MSc Computer Science (Constructor University Bremen, DE); BEng Mechatronics (NUST, PK); marine robotics research experience (UCP + Constructor).
-- **Research Interests:** Underwater robotics, cooperative USV–AUV navigation, state estimation/sensor fusion, autonomy under communication/energy constraints, robust underwater perception.
-- **Current Work:** Energy-aware acoustic modem/beacon management for AUV localization, Thesis formulation...
-- **Skills:** Basic Robotics Stacks
-- **Hobbies:** Swimming
+- **Background:** <Previous education, institution, or relevant experience>
+- **Research Interests:** <Specific topics or problems you're interested in>
+- **Current Work:** <What you're currently working on in the lab>
+- **Skills:** <Programming languages, tools, or methodologies you use>
+- **Hobbies:** <Interests outside of work>
 
 <!---
 NOTE: DO NOT MODIFY ANYTHING BELOW
@@ -62,4 +69,3 @@ NOTE: DO NOT MODIFY ANYTHING BELOW
 {% else %}
 *No WIP entries yet.*
 {% endif %}
-
